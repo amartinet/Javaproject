@@ -7,6 +7,8 @@ public class Bombe  {
 	private int mouvement;
 	private boolean active;
 	
+	//toto
+	
 	public Bombe (Vaisseau vaisseau, int mouvement){
 		this.x = vaisseau.getX()-30;
 		this.y = vaisseau.getY(); 
